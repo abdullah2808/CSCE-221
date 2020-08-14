@@ -1,0 +1,500 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "times" "default"
+\font_sans "helvet" "default"
+\font_typewriter "courier" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2.5cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\headheight 0cm
+\headsep 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Programming Assignment Report Instructions
+\begin_inset Newline newline
+\end_inset
+
+CSCE 221
+\end_layout
+
+\begin_layout Enumerate
+The description of an assignment problem.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Throughout this assignment I constructed a record class, used starter code
+ to construct a simple double linked list, a double linked list, and a templated
+ double linked list.
+ In the final part of the assignment I combined the templated double linked
+ list with the book record class from part 0 to construct a library managment
+ system.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The description of data structures and algorithms used to solve the problem.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Provide definitions of data structures by using Abstract Data Types (ADTs)
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Throughout the programming assignment linked lists were implemented.
+ A linked list keeps track of both the previous and the next node in the
+ list.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Write about the ADTs implementation in C++.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+To implement a linked list in C++ two classes were used the DLList class
+ and the DLListNode class, one to construct nodes and one to organize the
+ nodes.
+ Furthermore, the classes were then worked on further and turned into templated
+ classes such that any type of data type could be inserted such as ints,
+ strings, or doubles.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Describe algorithms used to solve the problem.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+In the record class first the members were assigned (Author, Title, Edition,
+ ISBN, and Year).
+ After the members were assigned then the operators were overlaoded (>>
+ , <<, <).
+ The >> is used to read in data line by line, the << outputs the record,
+ and the < compares the record to other records.
+ The time complexity of all the operators is O(n) = 1, because they don't
+ have any loops and all take a constant time to run that isn't dependent
+ on the amount of iterations.
+ Furthermore, in part 1 multiple different types of double linked lists
+ were created, I will discuss the time complexity for the templated double
+ linked list and 7 functions implemented throughout it since this has the
+ overall same code structure as the other double linked list implemented
+ but it furthers the usability of the code.
+ The insert_before, insert_after, remove_before, remove_after, remove_first,
+ and remove_last all have a constant time complexity of O(n) = 1, but their
+ running time varies based on the amount of instructions within the function.
+ For the insert_before and insert_after the running time is f(n) = 6, (I'm
+ considering all assignment statements as 1 and the if statement as a 1).
+ For the remove_before, remove_last, remove_first, and remove_after the
+ running time is f(n) = 7.
+ Furthermore for the function << the running time is f(n) = 2n + 1 (2 is
+ the amount of functions inside the while loop and 1 is the assignment before
+ the loop), the Big-O is O(n)=n.
+ In part 2 a search function was implemented along with a read and insert
+ function one to read data from a list and another to insert it by organization
+ of Title into a linked list.
+ The time complexity for the search function is f(n) = 6 + 4n + 4n + 6 (the
+ two 6s are assign statements used before the two while loops and the 4
+ is in the amount of instructions within the loop), the Big-O is O(n) =
+ n.
+ The search function has two loops one to search the vector index of the
+ corresponding first letter of the search input by title, and if more than
+ 1 title is found then the second loop runs and searchs for a matching edition.
+ The insert function has a constant time so Big-O is 1 and the running time
+ is 9.
+ The read function has a linear time of n, since the while loop runs until
+ the input file has been read entirely, the running time is f(n)= 4+5n.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Analyze the algorithms according to assignment requirements.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The analysis is done above in the description of the algorithms.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+A C++ organization and implementation of the problem solution 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Provide a list and description of classes or interfaces used by a program
+ such as classes used to implement the data structures or exceptions.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Classes used Record, DLList, DLListNode.
+ The Record class has the functions << >> and < and the members Title, Author,
+ Edition, ISBN, and Year as strings.
+ The DLList class has different functions to operate a linked list, and
+ the DLListNode constructs the nodes used throughout the DLList class.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Include in the report the class declarations from a header file (.h) and
+ their implementation from a source file (.cpp).
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshots of code and running/Record Class.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshots of code and running/DLLIst Class.JPG
+
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Provide features of the C++ programming paradigms like Inheritance or Polymorphi
+sm in case of object oriented programming, or Templates in the case of generic
+ programming used in your implementation.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Templates were used to offer generic programming so that any data type can
+ be utilized.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+A user guide description how to navigate your program with the instructions
+ how to: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+compile the program: specify the directory and file names, etc.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+I used visual studio to compile and run the program, I added everything
+ to the project and when into file properties to run the files I wanted
+ and disable the other files from being compiled and ran.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+run the program: specify the name of an executable file.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+I used visual studio to run the programs.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Specifications and description of input and output formats and files 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The type of files: keyboard, text files, etc (if applicable).
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The book.txt file is used and the keyboard is used to insert search inputs.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+A file input format: when a program requires a sequence of input items,
+ specify the number of items per line or a line termination.
+ Provide a sample of a required input format.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The given book.txt file that was given to use for the class record is the
+ way the data should be setup in a text file.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Discuss possible cases when your program could crash because of incorrect
+ input (a wrong file name, strings instead of a number, or such cases when
+ the program expects 10 items to read and it finds only 9.)
+\end_layout
+
+\begin_deeper
+\begin_layout Quotation
+The search function cannot handle lower cases letters inserted as the first
+ letter of the search neither can the text input file, because of the index
+ going less than 0 when inserting into the vector of linked lists.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Provide types of exceptions and their purpose in your program.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+logical exceptions (such as deletion of an item from an empty container,
+ etc.).
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Throughout my program I used the exception starter code given at the top
+ to be thrown whenever the linked list is empty.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+runtime exception (such as division by 
+\begin_inset Formula $0$
+\end_inset
+
+, etc.)
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Test your program for correctness using valid, invalid, and random inputs
+ (e.g., insertion of an item at the beginning, at the end, or at a random
+ place into a sorted vector).
+ Include evidence of your testing, such as an output file or screen shots
+ with an input and the corresponding output.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Class record:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshots of code and running/record.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tempated Double Linked List:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshots of code and running/templated.JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Library Managment:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshots of code and running/Library.JPG
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

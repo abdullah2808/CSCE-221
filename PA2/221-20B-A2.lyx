@@ -1,0 +1,415 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\date{}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "lmodern" "default"
+\font_sans "helvet" "default"
+\font_typewriter "courier" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 1.5cm
+\rightmargin 1.5cm
+\bottommargin 1.5cm
+\headheight 1cm
+\headsep 1cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Enumerate
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+(2 pts) Program description; purpose of the assignment.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Throughout this assignment we constructed multiple different types of minimal
+ priority queues using different data structures.
+ We used binary heap, vector, and linked lists to construct the MPQs.
+ After constructing the MPQs we use a CPU_Job class to mimic a processor.
+ The files were read in from a text file and then outputed to another text
+ file.
+ The purpose of the assignment was to better our understanding of different
+ data structures and the minimal prioritiy queue and how to write fast algorithm
+s that best adhere to design principles (such as not running super long).
+\end_layout
+
+\begin_layout Enumerate
+(2 pts) Instructions to compile and run your program; input and output specifica
+tions.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+To compile the program I used visual studio for most of the implementations
+ except the linked list in which I used the TAMU servers, because the linked
+ list function was running for over 45 minutes on my computer but only for
+ around 10-15 minutes on the server.
+ Through the header files for each data structure I included a main function
+ that was commented out that has some test cases I used to test the data
+ structure.
+ In the actual main.cpp I included all 3 main functions (commented out) I
+ used for the CPU_Job phase.
+ To run the different main functions just remove the comments and you can
+ enter the text file name to input the different text files.
+ The output for the CPU_Job is to a text file named OutSize
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(5 pts) Programming style, and program organization and design: naming,
+ indentation, whitespace, comments, declaration, variables and constants,
+ expressions and operators, error handling and reporting, files organization,
+ operators overloading.
+ templates.
+ Please refer to the 
+\begin_inset CommandInset href
+LatexCommand href
+name "PPP-style"
+target "http://www.stroustrup.com/Programming/PPP-style.pdf"
+literal "false"
+
+\end_inset
+
+ document.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+I used templates for all the functions so that you can enter any sort of
+ data type, as specified in the instructions.
+ Also I wrote all the different data structures in their own header files
+ and included them in the main.cpp.
+ For each header file I had a saved main function in the header file that
+ consists of the test cases I used.
+ Furthermore, I included comments on the Big-O of each function inside the
+ program.
+ I organized it into different header files so the code would be well structured
+ and there would not be crowding.
+ Furthermore, it would be easier to grade if I included my test cases inside
+ each header file.I kept the comments to a minimum as not to crowd the program
+ as the program is fairly simple and doesn't need to be overcrowded with
+ unneccessary information.
+ I kept an adequate amount of white space in each file as to offer easy
+ visiblity of different functions.
+ There is no error handling in the program.
+ The main.cpp file includes all the header files and different main functions
+ corresponding to each data structure, depending on the data structure I
+ wanted to test I just commented out the other ones and ran the one I needed
+ to test.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(5 pts) Discussion of the implementation and running time in the terms of
+ big-O.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+For the vector data structure I had 3 templated functions is_emptyy(), remove_mi
+n(), and insert().
+ The is_emptyy() returns a bool value back and has a constant Big-O of O(1).
+ The remove_min() function searches the vector for the smallest element
+ notes the index of the element, removes the element from the vector, and
+ returns the element, since the for loop runs for a N amount of times the
+ Big-O notation is O(n).
+ The remove_min() functions runs for a constant time of O(1), since it only
+ pushes to the back of the vector.
+ For the linked list data structure I followed a similiar style as the vector
+ classes and had 3 same templated functions.
+ The is_emptyy() and insert() both have a Big-O of O(1) since they contain
+ 1 instruction each that runs for a constant time.
+ The is_emptyy() has 1 compare statement and returns a bool and the insert()
+ pushes to the front of the linked list.
+ The remove_min() function uses a for loop with two iterators, one to run
+ through the linked list and one to save the location of the lowest value.
+ The first iterator is compared to a temporary value that is initially set
+ to the beginning of the list, if the temporary value is greater than the
+ temp value is changed to the iterator value and the second iterator value
+ is updated to know which location the lowest value exists at.
+ The Big-O notation is O(n) since it iterates through the entire list n
+ amount of times.
+ The binary heap data structures again has 3 functions but the implementation
+ of the is_emptyy() function is the same except the function name is is_empty().
+ The reason for that is because my IDE was telling me is_empty() was too
+ ambigous for the vector and linked list structures but not for the binary
+ heap.
+ The binary heap class consists of 7 functions total and 1 default constructor.
+ 3 of the functions are used to access the left, right and parent element
+ of different elements all have a constant time O(1).
+ I used a vector to implement the binary heap.
+ Furthermore, one of the functions shows the heap and is called show_heap()
+ which has a O(n) complexity and displays the heap.
+ The insert() function pushes a element to the back of the vector and then
+ organizes the binary heap to mantain a minimal binary heap, the while loop
+ compares the child to its parent and swaps places if necessary, the Big-O
+ notation is O(logn), since it iterates by n/2 (since the parent is (n-1)/2).
+ The remove_min() function runs in O(n) time and the implementation is similiar
+ to the previous data structures, where a for loop runs through and compares
+ each element to the parent and switches them if necessary.
+ In the CPU_job header file I implemented the operators <, > for the CPU_job
+ class and both have a constant run time of O(1).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(6 pts) Presenting the testing results, use a table to present timings for
+ each implementation (9 timings in total).
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Inputs
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vector
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Linked List
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Binary Heap
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+178 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+135 ms
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10304 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8710 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6,687 ms
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+100,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+968973 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+932,750 ms
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+605,025 ms 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+The vector and binary heap timings were done on my computer, and the linked
+ list timing was done on the TAMU servers, because my computer was running
+ into problems with large input sizes for the linked list.
+ The TAMU server timings for the vector and binary heap would be faster
+ if I did run them on the server, but due to time constraints I was unable
+ to test everything on the server.
+ 
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\end_body
+\end_document

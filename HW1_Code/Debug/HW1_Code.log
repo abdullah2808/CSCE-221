@@ -1,0 +1,4 @@
+﻿  Q1.cpp
+C:\Users\Abdullah\Desktop\CSCE Classes\CSCE 221\HW1_Code\Q1.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Abdullah\Desktop\CSCE Classes\CSCE 221\HW1_Code\Q1.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+  HW1_Code.vcxproj -> C:\Users\Abdullah\Desktop\CSCE Classes\CSCE 221\HW1_Code\Debug\HW1_Code.exe

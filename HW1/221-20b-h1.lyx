@@ -1,0 +1,2886 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options false
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "lmodern" "default"
+\font_sans "lmss" "default"
+\font_typewriter "courier" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 0.8in
+\rightmargin 1in
+\bottommargin 0.8in
+\headheight 0cm
+\headsep 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size larger
+CSCE 221 Cover Page
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size larger
+Homework #1 
+\end_layout
+
+\begin_layout Standard
+\align center
+Due June 2, at midnight to eCampus
+\size larger
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+First Name Abdullah
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space \space{}
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Last Name Ahmad
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+UIN:927009064
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+User Name Abdullah2808
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+E-mail address abdullah2808@tmau.edu
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\size default
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+Please list all sources in the table below including web pages which you
+ used to solve or implement the current homework.
+ If you fail to cite sources you can get a lower number of points or even
+ zero, read more: 
+\begin_inset CommandInset href
+LatexCommand href
+name "Aggie Honor System Office"
+target "http://aggiehonor.tamu.edu/"
+literal "false"
+
+\end_inset
+
+ 
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type of sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+People
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Web pages (provide URL) 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+https://www.geeksforgeeks.org/binary-search/
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS2/html/AnalProgram.html
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Printed material
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Other Sources 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+I certify that I have listed all the sources that I used to develop the
+ solutions/codes to the submitted work.
+\end_layout
+
+\begin_layout Quotation
+“
+\emph on
+On my honor as an Aggie, I have neither given nor received any unauthorized
+ help on this academic work.
+\emph default
+” 
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Your Name 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Abdullah Ahmad
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Date 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5/31/2020
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+
+\series bold
+Type solutions to the homework problems listed below using preferably \SpecialChar LyX
+/\SpecialChar LaTeX
+
+ word processors, see the class webpage for more information about their
+ installation and tutorials.
+ 
+\end_layout
+
+\begin_layout Enumerate
+(10 points) Use the STL class 
+\family typewriter
+vector<double>
+\family default
+ to write a C++ function that takes two vectors, 
+\family typewriter
+a
+\family default
+ and 
+\family typewriter
+b
+\family default
+, of the same size and returns a vector 
+\family typewriter
+c
+\family default
+ such that 
+\begin_inset Formula $c[i]=a[i]\cdot b[i]$
+\end_inset
+
+.
+ How many scalar multiplications are used to create elements of the vector
+ 
+\family typewriter
+c
+\family default
+ of size 
+\begin_inset Formula $n$
+\end_inset
+
+? Provide a formula on the number of scalar multiplications in terms of
+ 
+\begin_inset Formula $n$
+\end_inset
+
+.
+ What is the classification of this algorithm in terms of the Big-O notation?
+ 
+\begin_inset listings
+lstparams "language={C++}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+vector<double> scalar_mult(vector<double> a, vector<double> b) { 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	vector<double> c; 	
+\end_layout
+
+\begin_layout Plain Layout
+
+	for (int i = 0; i < a.size(); i++) { 		
+\end_layout
+
+\begin_layout Plain Layout
+
+		c.push_back(a.at(i) * b.at(i)); 	}
+\end_layout
+
+\begin_layout Plain Layout
+
+	return c; }
+\end_layout
+
+\end_inset
+
+The amount of scalar multiplications required to create elements of the
+ vector c of size n is n.
+ The formula for the number of scalar multiplications in terms of n is n
+ and the classifcation in terms of the Big-O notation is O(n).
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+(10 points) Use the STL class 
+\family typewriter
+vector<int>
+\family default
+ to write a C++ function that returns true if there are two elements of
+ the vector for which their product is odd, and returns false otherwise.
+ Provide a formula on the number of scalar multiplications in terms of 
+\begin_inset Formula $n$
+\end_inset
+
+, the size of the vector, to solve the problem in the best and worst cases.
+ Describe the situations of getting the best and worst cases, give the samples
+ of the input at each case and check if your formula works.
+ What is the classification of the algorithm in the best and worst cases
+ in terms of the Big-O notation?
+\begin_inset listings
+lstparams "language={C++}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+bool odd_prod(vector<int> a) {
+\end_layout
+
+\begin_layout Plain Layout
+
+	for (int i = 0; i < a.size(); i++) {
+\end_layout
+
+\begin_layout Plain Layout
+
+		for (int j = 0; j < i; j++) {
+\end_layout
+
+\begin_layout Plain Layout
+
+			if (a[i] * a[j] % 2 == 1) {
+\end_layout
+
+\begin_layout Plain Layout
+
+				return true;
+\end_layout
+
+\begin_layout Plain Layout
+
+			}
+\end_layout
+
+\begin_layout Plain Layout
+
+		}
+\end_layout
+
+\begin_layout Plain Layout
+
+	}
+\end_layout
+
+\begin_layout Plain Layout
+
+	return false; }
+\end_layout
+
+\end_inset
+
+The formula in terms of the size of the vector in the worst case scenario
+ is 
+\begin_inset Formula $\frac{n(n+1)}{2}$
+\end_inset
+
+for the best case scenario the formula is 
+\begin_inset Formula $1$
+\end_inset
+
+.
+ The Big-O notation for the worst case scenario is 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+ and O(1) for the best case scenario.
+ If the input is 1 the best scenario is achieved, if you enter an n greater
+ than 1 the worst case scenario will happen.
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+(20 points) Write a templated C++ function called 
+\family typewriter
+BinarySearch
+\family default
+ which searches for a target 
+\family typewriter
+x
+\family default
+ of any numeric type 
+\family typewriter
+T
+\family default
+, and test it using a sorted vector of type 
+\family typewriter
+T
+\family default
+.
+ Provide the formulas on the number of comparisons in terms of 
+\begin_inset Formula $n$
+\end_inset
+
+, the length of the vector, when searching for a target in the best and
+ worst cases.
+ Describe the situations of getting the best and worst cases.
+ What is the classification of the algorithm in the best and worst cases
+ in terms of the Big-O notation?
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset listings
+lstparams "language={C++}"
+inline false
+status open
+
+\begin_layout Plain Layout
+
+template <typename T>
+\end_layout
+
+\begin_layout Plain Layout
+
+int binarysearch(vector<T>vec, int l, int r, T search){
+\end_layout
+
+\begin_layout Plain Layout
+
+		while (l <= r) {
+\end_layout
+
+\begin_layout Plain Layout
+
+			int m = l + (r - l) / 2;
+\end_layout
+
+\begin_layout Plain Layout
+
+			if (vec[m] == search)
+\end_layout
+
+\begin_layout Plain Layout
+
+				return m;
+\end_layout
+
+\begin_layout Plain Layout
+
+			if (vec[m] < search)
+\end_layout
+
+\begin_layout Plain Layout
+
+				l = m + 1;
+\end_layout
+
+\begin_layout Plain Layout
+
+			else
+\end_layout
+
+\begin_layout Plain Layout
+
+				r = m - 1;
+\end_layout
+
+\begin_layout Plain Layout
+
+		} 		return -1;
+\end_layout
+
+\begin_layout Plain Layout
+
+	}
+\end_layout
+
+\end_inset
+
+In the best case when searching for a target the formula in terms of n is
+ 1, and in the worst case is 
+\begin_inset Formula $(\frac{n}{2}+1)$
+\end_inset
+
+.
+ To get the best case you would have to find the middle term, and to get
+ the worst case you would find nothing.
+ The classifcation of the algorithm in the best case is O(1), this occurs
+ O(log(n)).
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(10 points) The number of operations executed by algorithms 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+ is 
+\begin_inset Formula $8n\log n$
+\end_inset
+
+ and 
+\begin_inset Formula $2n^{2}$
+\end_inset
+
+, respectively.
+ Determine 
+\begin_inset Formula $n_{0}$
+\end_inset
+
+ such that 
+\begin_inset Formula $A$
+\end_inset
+
+ is faster than 
+\begin_inset Formula $B$
+\end_inset
+
+ for 
+\begin_inset Formula $n\geq n_{0}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Using algebra to solve 
+\begin_inset Formula 
+\begin{align*}
+8n\,log\,n & =2n^{2}\\
+4log\,n & =n\\
+4 & =\frac{n}{log\,n}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving for n you get 16, so for A to be faster than B you have to have
+ an 
+\begin_inset Formula $n_{0}$
+\end_inset
+
+ of 17.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(10 points) Two friends are arguing about their algorithms.
+ The first one claims his 
+\begin_inset Formula $O(n\log n)$
+\end_inset
+
+-time algorithm is 
+\series bold
+always
+\series default
+ faster than the second friend's 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+-time algorithm.
+ To settle the issue, they perform a set of experiments.
+ Show that it is possible to find an input 
+\begin_inset Formula $n<100$
+\end_inset
+
+ that the 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+-time algorithm runs faster, and only when 
+\begin_inset Formula $n\geq100$
+\end_inset
+
+ that the 
+\begin_inset Formula $O(n\log n)$
+\end_inset
+
+-time algorithm is faster.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Big-O notation calculates complexity when n is arbitrarily large, so 
+\begin_inset Formula $O(n\log n)$
+\end_inset
+
+ will be faster whenever the number of inputs grows larger.
+ However it is possible for 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+ to be faster at smaller inputs, because of variables like better memory
+ allocation or other non-algorithmic effects.
+ Big-O notation is more useful whenever n grows very large, but in real
+ life cases where factors such size of the iterations or memory allocation
+ comes into affect, it is possible for 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+to be faster.
+ This can be proven by measuring exectution time of both algorithms for
+ different n's and you will find that for n < 100 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+ is faster, but for 
+\begin_inset Formula $n\geq100$
+\end_inset
+
+ 
+\begin_inset Formula $O(n\log n)$
+\end_inset
+
+ is faster.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(10 points) An algorithm takes 
+\begin_inset Formula $0.5$
+\end_inset
+
+ms for an input of size 
+\begin_inset Formula $100$
+\end_inset
+
+.
+ Assuming that lower-order terms are negligible, how long will it take for
+ an input of size 
+\begin_inset Formula $500$
+\end_inset
+
+ if the running time is:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+linear, 
+\begin_inset Formula $O(n)$
+\end_inset
+
+?
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+\frac{500}{100} & =\frac{N}{.5ms}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving for N you get 2.5ms.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+cubic, 
+\begin_inset Formula $O(n^{3})$
+\end_inset
+
+?
+\begin_inset Formula 
+\begin{align*}
+\frac{500^{3}}{100^{3}} & =\frac{N}{.5ms}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Solving for N you get 62.5ms.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+(10 points) An algorithm takes 
+\begin_inset Formula $0.5$
+\end_inset
+
+ms for an input of size 
+\begin_inset Formula $100$
+\end_inset
+
+.
+ Assuming that lower-order terms are negligible, how large a problem can
+ be solved in 
+\begin_inset Formula $1$
+\end_inset
+
+ minute if the running time is:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $O(n\log n)$
+\end_inset
+
+?
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Since 1 minute is 60,000ms
+\begin_inset Formula 
+\begin{align*}
+\frac{xlogx}{100log100} & =\frac{60,000}{0.5ms}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Solving for x you get an input size of rougly 3,650,000.
+ Using base 10 for log.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+quadratic, 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+?
+\begin_inset Formula 
+\begin{align*}
+\frac{x^{2}}{100^{2}} & =\frac{60,000}{0.5ms}
+\end{align*}
+
+\end_inset
+
+Solving for x you get an input size of rougly 34700.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+(20 points) Find running time functions for the algorithms below and write
+ their classification using Big-O asymptotic notation.
+ A running time function should provide a formula on the number of operations
+ performed on the variabl
+\family typewriter
+e
+\family default
+ 
+\begin_inset Formula $s$
+\end_inset
+
+.
+ Note that array indices start from 
+\begin_inset Formula $0$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout LyX-Code
+
+\series bold
+Algorithm
+\series default
+ Ex1(A):
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+  Input
+\series default
+: An array A storing 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+ integers.
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+  Output
+\series default
+: The sum of the elements in A.
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset Formula $s\leftarrow A[0]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+for
+\series default
+ 
+\begin_inset Formula $i\leftarrow1$
+\end_inset
+
+ to 
+\begin_inset Formula $n-1$
+\end_inset
+
+ 
+\series bold
+do
+\end_layout
+
+\begin_layout LyX-Code
+   
+\begin_inset Formula $s\leftarrow s+A[i]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+end for
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+return
+\series default
+ 
+\begin_inset Formula $s$
+\end_inset
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The running time function is 1+(n-1), since there is 1 assignment operation
+ performed before, the loop is done n-1 times, and there is 1 operation
+ in the loop.
+ The big classifcation is O(n).
+ 
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout LyX-Code
+
+\series bold
+Algorithm
+\series default
+ Ex2(A):
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+  Input
+\series default
+: An array A storing 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+ integers.
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+  Output
+\series default
+: The sum of the elements at even positions in A.
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset Formula $s\leftarrow A[0]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+for
+\series default
+ 
+\begin_inset Formula $i\leftarrow2$
+\end_inset
+
+ 
+\series bold
+to
+\series default
+ 
+\begin_inset Formula $n-1$
+\end_inset
+
+ 
+\series bold
+by 
+\series default
+increments of 2
+\series bold
+ do
+\end_layout
+
+\begin_layout LyX-Code
+  
+\begin_inset Formula $s\leftarrow s+A[i]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+end for
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+return
+\series default
+ 
+\begin_inset Formula $s$
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The running time function is 1+(
+\begin_inset Formula $\frac{n-1}{2})$
+\end_inset
+
+, since there is 1 assignment before, and it increments by 2.
+ So the Big-O notation is O(n) still since constants are ignored.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout LyX-Code
+
+\series bold
+Algorithm
+\series default
+ Ex3(A):
+\end_layout
+
+\begin_layout LyX-Code
+   
+\series bold
+Input
+\series default
+: An array A storing 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+ integers.
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+   Output
+\series default
+: The sum of the partial sums in A.
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset Formula $s\leftarrow0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+for
+\series default
+ 
+\begin_inset Formula $i\leftarrow0$
+\end_inset
+
+  
+\series bold
+to
+\series default
+ 
+\begin_inset Formula $n-1$
+\end_inset
+
+ 
+\series bold
+do
+\end_layout
+
+\begin_layout LyX-Code
+   
+\begin_inset Formula $s\leftarrow s+A[0]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+   for
+\series default
+ 
+\begin_inset Formula $j\leftarrow1$
+\end_inset
+
+ 
+\series bold
+to
+\series default
+ 
+\begin_inset Formula $i$
+\end_inset
+
+ 
+\series bold
+do
+\end_layout
+
+\begin_layout LyX-Code
+     
+\begin_inset Formula $s\leftarrow s+A[j]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+   
+\series bold
+end for
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+end for
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+return
+\series default
+ 
+\begin_inset Formula $s$
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The running time function is 1+
+\begin_inset Formula $\frac{(n+1)n}{2}$
+\end_inset
+
+, since there is 1 operation performed before, the outer loop has 1 operation,
+ and the inner loop has 1 operation.
+ The Big-O for the algorithm is 
+\begin_inset Formula $O(n^{2})$
+\end_inset
+
+.
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout LyX-Code
+
+\series bold
+Algorithm
+\series default
+ Ex4(A):
+\end_layout
+
+\begin_layout LyX-Code
+   
+\series bold
+Input
+\series default
+: An array A storing 
+\begin_inset Formula $n\geq1$
+\end_inset
+
+ integers.
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+   Output
+\series default
+: The sum of the partial sums in A.
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset Formula $t\leftarrow0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+\begin_inset Formula $s\leftarrow0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+for
+\series default
+ 
+\begin_inset Formula $i\leftarrow1$
+\end_inset
+
+ 
+\series bold
+to
+\series default
+ 
+\begin_inset Formula $n-1$
+\end_inset
+
+ 
+\series bold
+do
+\series default
+ 
+\end_layout
+
+\begin_layout LyX-Code
+   
+\begin_inset Formula $s\leftarrow s+A[i]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+   
+\begin_inset Formula $t\leftarrow t+s$
+\end_inset
+
+
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+end for
+\end_layout
+
+\begin_layout LyX-Code
+
+\series bold
+return
+\series default
+ 
+\begin_inset Formula $t$
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+The running time for the function is 2(n-1)+1, because there is two operations
+ performed each loop on s and there is 1 operation performed before the
+ loop on s, and it loops n-1 times.
+ The Big-O notation is O(n).
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout LyX-Code
+
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
